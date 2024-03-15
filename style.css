@@ -705,4 +705,8 @@ span {
   .contact .heading {
     font-size: 3.5rem;
   }
+
+  .overview-box{
+    max-height:420px;
+  }
 }
